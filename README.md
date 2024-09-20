@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/Mateus-Frnds">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Frnds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Frnds&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
