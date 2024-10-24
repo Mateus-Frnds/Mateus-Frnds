@@ -1,5 +1,3 @@
-## Hello there! I'm Mateus!!! 👋
-
 <div>
   <a href="https://github.com/Mateus-Frnds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Frnds&layout=compact&langs_count=7&theme=dark"/>
